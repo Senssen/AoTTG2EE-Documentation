@@ -5,5 +5,4 @@ This public wiki repository is designed to help you explore these features, incl
 If a feature you don't understand isn't listed here, please let us know in the mod's discord so we can point you in the right direction, or add onto the wiki if we deem it necessary.
 
 [![Discord](https://img.shields.io/discord/1247988578890551429.svg)](https://discord.gg/xPmXbPAYMu) 
-
 https://discord.gg/xPmXbPAYMu 
