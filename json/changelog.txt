@@ -1,4 +1,4 @@
-Version 1.2.0 02/27/2026
+Version 1.2.0 (02/27/2026)
 - Added discord icon and changed outdated popup to correlate to the mod version
 - Make the acoustic flare marker readable
 - Don't disable head decors on cloaks when hood isn't up
@@ -16,3 +16,19 @@ Version 1.2.0 02/27/2026
 - Fix anti-armor swap option appearing when rejoining a lobby despite not the being anti-armor role
 - Rebased with upstream
 - Added russian language file
+
+Version 1.1.0 (02/20/2026)
+- Fix Horse Mount Locale Error
+- Fix Terrain Details not applying on Scene Load
+- Fix Unistorm instantiating twice
+- Fix Unistorm not removing Map Editor Daylights
+- Exposed Wagoneer Supply to CL and added to Documentation
+- Exposed Expedition Roles to CL and added to Documentation
+- Fix cannoneers being able to stack on one Cannon
+- Fix scene loading twice
+- Redid the interaction system
+- Added Fall of Shiganshina to built in Expedition map tab
+- Added Training Map (Now called Scout HQ) to built in expedition map tab
+- Added Forest of Large Trees to built in Expedition map tab
+- Fix craftsman previews bugging out upon death
+- Fix issue where you couldn't scroll down player list in the expedition tab
