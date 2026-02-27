@@ -1,15 +1,17 @@
-Version 1.1.0
-- Fix Horse Mount Locale Error
-- Fix Terrain Details not applying on Scene Load
-- Fix Unistorm instantiating twice
-- Fix Unistorm not removing Map Editor Daylights
-- Exposed Wagoneer Supply to CL and added to Documentation
-- Exposed Expedition Roles to CL and added to Documentation
-- Fix cannoneers being able to stack on one Cannon
-- Fix scene loading twice
-- Redid the interaction system
-- Added Fall of Shiganshina to built in Expedition map tab
-- Added Training Map (Now called Scout HQ) to built in expedition map tab
-- Added Forest of Large Trees to built in Expedition map tab
-- Fix craftsman previews bugging out upon death
-- Fix issue where you couldn't scroll down player list in the expedition tab
+Version 1.2.0 02/27/2026
+- Added discord icon and changed outdated popup to correlate to the mod version
+- Make the acoustic flare marker readable
+- Don't disable head decors on cloaks when hood isn't up
+- Fix cloaks breaking the FPS camera
+- Fix cloak skins
+- Make the kill feed camera shake work client side
+- Fix a lot of interaction bugs
+- Fix some craftsman related bugs when dying while preview object is active
+- Change color grading
+- Change fog density on clear weather types in Unistorm
+- Change center of mass on physics wagon
+- Change dust particles on physics wagon
+- Switchback now enters a longer cooldown when spammed too much
+- Fix supply special breaking movement when trying to refill
+- Fix anti-armor swap option appearing when rejoining a lobby despite not the being anti-armor role
+- Rebased with upstream
