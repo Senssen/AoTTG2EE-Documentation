@@ -15,3 +15,4 @@ Version 1.2.0 02/27/2026
 - Fix supply special breaking movement when trying to refill
 - Fix anti-armor swap option appearing when rejoining a lobby despite not the being anti-armor role
 - Rebased with upstream
+- Added russian language file
