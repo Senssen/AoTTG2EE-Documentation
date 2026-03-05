@@ -1,3 +1,13 @@
+Version 1.3.0 (03/05/2026)
+- Hide expedition elements when toggling the Hide HUD keybind
+- Fix impact damage killing people that mount passenger horses
+- Make specials useable on horseback when horseback combat is enabled
+- Make thunderspear kills reduce the cooldown on specials like Escape
+- Set max voice count from 32 to 64
+- Fix the map border on Scout Headquarters
+- Fix hood cloak issue behaving unexpectedly with back accessories
+- Added script support for opening and closing the gate in the community event
+
 Version 1.2.0 (02/27/2026)
 - Added discord icon and changed outdated popup to correlate to the mod version
 - Make the acoustic flare marker readable
