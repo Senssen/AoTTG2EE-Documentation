@@ -1,3 +1,20 @@
+Version 1.4.0 (03/16/2026)
+- Rebase with upstream
+- Fixed the Momo assets in the map editor
+- Add a toggle for acoustic flare ringing
+- Fix acoustic ringing sound being global
+- Optimized restraining weapon so it doesn't explode high populated lobbies
+- Fix bug that makes the veteran loadout swap disappear in the ability wheel
+- Added new Thrower walking animation
+- Made Throwers stop throwing rocks at close range
+- Throwers can throw rocks at a larger range
+- Added 3 new walk cycles to abnormal titans
+- Made it so fakers can not pick animations that are jarring or make them slide
+- Made it so punks no longer slam after flailing
+- Made it so punks have an easier time triggering their side swipe
+- Added restraining device animations to captured standing and crawler titans
+- Fix it so the nape melon slice actually spawns on titan kill
+
 Version 1.3.0 (03/05/2026)
 - Hide expedition elements when toggling the Hide HUD keybind
 - Fix impact damage killing people that mount passenger horses
