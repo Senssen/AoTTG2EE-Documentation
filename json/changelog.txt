@@ -1,3 +1,25 @@
+Version 1.5.0 (03/28/2026)
+- Added titan regeneration mode to allow titans to regenerate hp over time
+- Added speedy titan type with customizable speed multiplier
+- Added titan regeneration and speed multipliers based on RC weather type
+- Added titan regeneration and speed multipliers based on time of day in dynamic weather
+- Added adjustable day and night lengths for dynamic weather
+- Made kill feed colors completely customizable
+- Moved hit chants and crit hit to sounds tab
+- Added retracting hook visuals
+- Added alternate animations to dashing
+- Altered day preset of RC weather to use a new skybox and adjusted settings
+- Made APG projectile based with new sound effects when hitting non character geometry
+- Made APG ammo based on stripper clips, reloading will waste ammo
+- Added built in titan spawn commands (/st), can be used in world space or on tags
+- Added tag command to tag a point in world space or a player to spawn titans around
+- Added range command to increase or decrease the radius in which /st spawns titans
+- Adjusted titans to spawn full skeletons instead of only a skull, ribcage and pelvis on death
+- Fix bug where the combo multiplier thinks you have killed two titans in one kill
+- Fix bug where disabling kill feed recolors doesn't change the visuals of the popup score
+- Removed triplanar effect from titan veins
+- Made name hiding a seperate option for Realism mode
+
 Version 1.4.0 (03/16/2026)
 - Rebase with upstream
 - Fixed the Momo assets in the map editor
