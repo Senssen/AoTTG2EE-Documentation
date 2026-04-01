@@ -4,6 +4,7 @@ Version 1.5.1 (04/01/2026)
 - Made HP Bars always appear even if a titan is uninjured
 - Fixed Titans dying weirdly when regeneration is on
 - Fixed regeneration setting max health instead of current health
+
 Version 1.5.0 (03/28/2026)
 - Added titan regeneration mode to allow titans to regenerate hp over time
 - Added speedy titan type with customizable speed multiplier
