@@ -1,3 +1,10 @@
+Version 1.5.2 (04/04/2026)
+- Fix crash on STRD when killing players
+- Make STRD deal 100 damage instead of instantly killing you on human health mode
+- Added kill feed to weak spots of titans
+- Added kill feed to nape hits that don't kill titans
+- Added bool to revert to the old abnormal animation only (does not affect fakers)
+
 Version 1.5.1 (04/01/2026)
 - Added bellyflop to punks
 - Made AirRelease animate less quickly
