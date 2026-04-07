@@ -1,3 +1,18 @@
+Version 1.5.3 (04/07/2026)
+- Added idle and turn animations to the crossed arm titan
+- Straightened the backs of a lot of abnormal titan run cycles and the thrower cycle
+- Added new titan walk animation for normal titans
+- Added new titan run animation for abnormal titans
+- Added hardened titans, titans that only respond to Thunderspear damage to the nape
+- Added enrageable titans, titans will ignore weak spot damage and become faster after hitting their legs
+- Edited leg hitboxes to be larger to work better for horse combat
+- Added options to which kill feed information you want to show in UI settings (All weakspots, Nape only, Kill only or None at all)
+- Added Mine & Titans health mode so you can only see your own and titan health
+- Added blood splatter and SFX to getting hit on human health mode for better feedback
+- Make titans blindable while in a sitting state
+- Fixed hook out of bounds error
+- Prevent crawlers from being marked as fakers
+
 Version 1.5.2 (04/04/2026)
 - Fix crash on STRD when killing players
 - Make STRD deal 100 damage instead of instantly killing you on human health mode
