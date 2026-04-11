@@ -1,3 +1,9 @@
+Version 1.5.4 (04/11/2026)
+- Fix Hardened Nape object not showing up on Hardened titans
+- Lots of tweaks to wagon to fix the physics
+- Added hood animation
+- Added new titan walk cycle animation
+- Fix titans crossing arms on faker abnormals pretending to be punks
 Version 1.5.3 (04/07/2026)
 - Added idle and turn animations to the crossed arm titan
 - Straightened the backs of a lot of abnormal titan run cycles and the thrower cycle
