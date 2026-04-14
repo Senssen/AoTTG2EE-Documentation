@@ -5,6 +5,7 @@ Version 1.5.5 (04/14/2026)
 - Made it so titan regeneration stops for a while if taken shifter related damage, allowing titans to be killable
 - Made non AI shifters (playables) do 300 damage instead of 100
 - Redid the wagon mesh to be more realistic with turning front wheels
+
 - Added an angle limit to wagon mounted horses
 - Made titans able to be crippled while bellyflopped
 Version 1.5.4 (04/11/2026)
