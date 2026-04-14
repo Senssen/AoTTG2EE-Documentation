@@ -127,3 +127,44 @@ Version 1.1.0 (02/20/2026)
 - Added Forest of Large Trees to built in Expedition map tab
 - Fix craftsman previews bugging out upon death
 - Fix issue where you couldn't scroll down player list in the expedition tab
+
+Version 1.0.0 (02/16/2026)
+- Scenes can now be loaded through asset bundles
+- Built in prefab spawning using asset bundles
+- 3 Scenes have been built into the game that can be accessed in the map editor:
+- Fall of Shiganshina
+- Forest of Large Trees
+- Training Map
+- Dynamic sky has been added with moving celestial objects
+- Volumetric clouds that shape and shift dependent on weather
+- World space rain has been added
+- Atmospheric fog that blends map fog with the horizon and atmosphere
+- Improved Flare Wheel that allows you to shoot two new flares
+- Flash flare that lights up its immediate area has been added
+- Acoustic flare that sets a waypoint marker on the map
+- Auto run has been added allowing to chat without stopping your horse or human
+-  Passengers have been added allowing players to pick up each other on horseback
+- Faker titans have been added, these titans grab random walk cycles regardless of their type
+- Stalker titans that pick one person and focus on them, higher chance to pick wagoneers
+- Titan death shader that dissolves the titan into bones and then dissolves those bones
+- Thunderspears now use a QTE system to do critical explosions that ignore the angle and have a larger radius
+- Cloaks have been added, can be used to anonymously kill players and titans if enabled by the Master Client,
+- Cloaks also have imgur support and base skins will be provided
+- Craftsman role has been added that allows you to build bases and special objects
+- 20+ buildables with snapping have been added to aid with this
+- Logistician role has been added that allows you to supply people low on gas or blades
+- Wagoneer role has been added that allows the player to drag a wagon behind their horse for refills and loadout changes
+- Completely physics simulated wagon has been added that can be destroyed on titan collision
+- Cannoneer role can use craftsman placed cannons to shoot at titans, also has a projectile arc visual
+- Anti-armor role that allows switching between blades and thunderspears on the fly
+- Triple ability wheel that allows the player to take 3 abilities in the game to combat titans
+- Restraining weapon has been added that allows one to capture titans instead of killing them
+- Vertical dash has been altered slightly and uses different keybinds, costs more gas
+- Empowered dash can be toggled on or off to give a boost to dashes done in direction of movement, costs more gas
+- Omni dash is now a toggle, cooldown has been removed but costs more gas
+- Supply ability now spawns a pickup rather than a large gas can, for emergency use
+- Cooldown on switchback, spins and potato have been adjusted
+- Holding gas while running up a wall will remove the momentum kill when jumping over a ledge
+- Graphic settings that allow the player to gain performance have been added, for example Pixel Error and Terrain Detail sliders
+- New kill feed options in UI settings that enhance the feedback on killing titans
+
