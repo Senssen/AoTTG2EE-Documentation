@@ -12,6 +12,7 @@ Version 1.6.0 (04/19/2026)
 - Make regeneration stop for 3 seconds if damage dealt to a titan or shifter is above zero
 - Fix bug where changing idles unloads your skins
 - Make the AHSS ODM disable when the cloak is enabled
+- Fix bug where horse walk also triggered human walking
 
 Version 1.5.5 (04/14/2026)
 - Add idles option in character editor to choose a unique idle for your player
