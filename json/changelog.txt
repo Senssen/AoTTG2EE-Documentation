@@ -1,3 +1,18 @@
+Version 1.6.0 (04/19/2026)
+- Add dance keybind
+- Add laying down keybind
+- Improve walk animation
+- Tapping the movement keys makes you walk for a quick second now instead of full on sprinting
+- Sprinting has gotten a new animation
+- Sprinting with guns has received a unique animation
+- Shooting a hook raises your arm and aims your hip based on which hook got shot
+- Normal titan animations can now be changed to legacy seperate from abnormals
+- Add in over 37 hairs from cuteyhead and hao into the game
+- Update the default human presets (Levi, Eren, etc) to use the new eyes and hairstyles
+- Make regeneration stop for 3 seconds if damage dealt to a titan or shifter is above zero
+- Fix bug where changing idles unloads your skins
+- Make the AHSS ODM disable when the cloak is enabled
+
 Version 1.5.5 (04/14/2026)
 - Add idles option in character editor to choose a unique idle for your player
 - Add hold to walk keybind to move at 25% speed with a new walk cycle
