@@ -1,5 +1,6 @@
 Version 1.6.1 (04/19/2026)
 - Make the hood mesh on cloaks disable on certain hair choices.
+
 Version 1.6.0 (04/19/2026)
 - Add dance keybind
 - Add laying down keybind
