@@ -1,3 +1,9 @@
+Version 1.6.2 (04/21/2026)
+- Addresses hook shoot animation to look less funky
+- Makes hook shoot animation not overwrite Specials
+- Addresses a lot of hairs to hide the scalp better
+- Add russian localization
+
 Version 1.6.1 (04/19/2026)
 - Make the hood mesh on cloaks disable on certain hair choices.
 
