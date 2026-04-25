@@ -1,3 +1,13 @@
+Version 1.6.3 (04/25/2026)
+- Temporary toggle provided for hook shot animation
+- Make Dance special toggleable in Misc settings
+- Make enrage titans have more defined veins to visualize them better
+- Add placeable tent to craftsman
+- Add new run animations for when you no longer have blades
+- Make it so typing in chat no longer toggles your Dance, Lay Down or Sit states
+- Edited some animations to reduce clipping on the cloak
+- Make it so hook shoot animation does reset to flying even if hook sounds are off
+
 Version 1.6.2 (04/21/2026)
 - Addresses hook shoot animation to look less funky
 - Makes hook shoot animation not overwrite Specials
