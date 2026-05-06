@@ -1,3 +1,12 @@
+Version 1.6.4 (05/06/2026)
+- Fix windzone bug on Unistorm pushing debris on maps like Trost
+- Adjusted fog settings on weather to be a bit less
+- Stop printing in chat publically when the weather changes
+- Made weak spot kill feed not give away an anonymous player
+- Shrunk down the wagon hurtbox
+- Added an option to make blades immediately shatter on player kill in Misc
+- Added an option to prevent air reloads for blades like guns have
+
 Version 1.6.3 (04/25/2026)
 - Temporary toggle provided for hook shot animation
 - Make Dance special toggleable in Misc settings
