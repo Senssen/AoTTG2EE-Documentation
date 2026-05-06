@@ -6,6 +6,7 @@ Version 1.6.4 (05/06/2026)
 - Shrunk down the wagon hurtbox
 - Added an option to make blades immediately shatter on player kill in Misc
 - Added an option to prevent air reloads for blades like guns have
+- Re-added Advanced Alloy as a simple toggle in human keybinds
 
 Version 1.6.3 (04/25/2026)
 - Temporary toggle provided for hook shot animation
