@@ -1,3 +1,7 @@
+Version 1.7.0 (07/06/2026)
+- Rebase on latest upstream (Account Update)
+- Fix carpenter having a hard limit on how many objects can be placed.
+
 Version 1.6.4 (05/06/2026)
 - Fix windzone bug on Unistorm pushing debris on maps like Trost
 - Adjusted fog settings on weather to be a bit less
