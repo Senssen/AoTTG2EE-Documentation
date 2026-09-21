@@ -1,3 +1,36 @@
+Version 1.11.0 (09/22/2026)
+- Game was rebased on the most recent main from base game
+- Officially transfered from the Built-in Rendering Pipeline to the Universal Rendering Pipeline
+- Unity version upgraded to Unity 6
+- Flare length has been extended to 100 seconds.
+- Flares will no longer destroy themselves when colliding with NPCs or players.
+- Acoustic Flare SFX finally adjusted to not be overly loud.
+- /killflares command added for masterclient to kill all flares on the map.
+- New Warded Titan modifier added, set as a percentage like speedies, fakers, etc. Warded titans are immune to all damage until their designated limb is cut. Will regenerate.
+- CL compatible, does not yet apply for the other titan modifiers, will be done in a later update.
+- Hook shoot animation has been redone again.
+- Hook shooting now rotates the player towards the hook point to simulate proper hip aiming.
+- Hook shooting now crossfades properly and doesn't do janky things like snapping the arm immediately down or cycling to idle first before going back to air animations.
+- Hook shoot variants added dependent on your hook angle relative to the player, 30 degrees in both up and down directions as threshhold.
+- Added /me command as a replacement for AoTTG1's /o command. Spawns a text bubble and prints a colored message in chat to nearby players.
+- Added /do command. Does the same as /me but does not spawn a text bubble.
+- Commands added for every animation emote in the game, /dance, /twirl, etc.
+- Dynamic Camera bool added in camera settings. Adds drag, lateral shifting, etc to your camera. Works for TPS and Original.
+- Dynamic Camera FOV is a separate bool if you dislike it.
+- Cloaks are now to be selected in the character editor under capes.
+- Titan modifiers now follow base game conventions in Titan settings.
+- Poke Dance named to Dance whilst the base game Dance has been renamed to Twirl.
+- Idle emotes are now in a fourth wheel in the emote wheel. Keybinds removed.
+- Adds option to enable a compass with adjustable y offset in settings. Will be updated later to have a global disable.
+- Titan veins have been lightly strengthened.
+- Titan veins are now randomized per titan.
+- Sunshaft strength option added to graphics.
+- Cloud quality will now save to your Graphics.json.
+- Cannoneers do not unmount at the wrong cannon anymore.
+- Wagoneer horses will stop running forever when dismounting with auto run on.
+- Lag when doing things that swap player models is gone due to removing Combine Player Meshes option.
+- Logo changed back to use the expedition extension logo.
+
 Version 1.8.1 (07/18/2026)
 - Added noise suppression toggle to settings 
 - Fixed wagon sending people flying (I think)
