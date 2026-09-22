@@ -1,3 +1,10 @@
+Version 1.11.1 (09/23/2026)
+- Acoustic flare particle renders correctly now
+- Rain particles render correctly now
+- Cloud Quality setting OFF along with 2D also simplifies the cloud to low quality
+- No blades run has been applied over the Civilian and Unarmed roles.
+- Added a new totally necessary hat accessory
+
 Version 1.11.0 (09/22/2026)
 - Game was rebased on the most recent main from base game
 - Officially transfered from the Built-in Rendering Pipeline to the Universal Rendering Pipeline
