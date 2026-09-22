@@ -18,6 +18,8 @@ Version 1.11.0 (09/22/2026)
 - Dynamic Camera bool added in camera settings. Adds drag, lateral shifting, etc to your camera. Works for TPS and Original.
 - Dynamic Camera FOV is a separate bool if you dislike it.
 - Cloaks are now to be selected in the character editor under capes.
+- Added a looping salute emote.
+- Added an at attention emote.
 - Titan modifiers now follow base game conventions in Titan settings.
 - Poke Dance named to Dance whilst the base game Dance has been renamed to Twirl.
 - Idle emotes are now in a fourth wheel in the emote wheel. Keybinds removed.
