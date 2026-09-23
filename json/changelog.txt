@@ -1,3 +1,10 @@
+Version 1.11.2 (09/23/2026)
+- Fix Ultra Cloud Settings breaking Dynamic Weather
+- Made it so the back part of the ODM is no longer shrunk down when a cloak is not active
+- Added a global compass disable to misc settings
+- Removed realism mode automatically disabling the minimap, just use global minimap disable now
+- Stalkers no longer take too long of a delay to pick a player
+
 Version 1.11.1 (09/23/2026)
 - Acoustic flare particle renders correctly now
 - Rain particles render correctly now
