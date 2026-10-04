@@ -1,3 +1,66 @@
+Version 1.12.0 (10/04/2026)
+- Added blood decals and a more vicious splatter effect to nape kills.
+- Added a procedural blood layer to players that increases in intensity the more titans you kill. Uses extra UV channels to prevent mirroring.
+- Titans head now get blown up with a new head model that sprays blood everywhere.
+- Changed Idle Salute to be called Salute.
+- the original Salute emote has been replaced with Check Supplies which plays the refill animation once.
+- Added the actual salute intro on the Salute emote before entering an idle state.
+- Added a unique walk cycle if using Hold to Walk while using the At Attention emote.
+- Added a cross arms idle emote.
+- Added a stern idle emote, putting your hands on your hips.
+- Added a think idle emote.
+- Omni burst and empowered burst have been removed.
+- Gas bursting is now percentage based like AoTTG1, taking 4% of your total gas each burst. Flat rate bursts can be re-enabled in room settings.
+- Vertical burst has been brought to the same strength as horizontal bursts, the gas usage lowered too as a result.
+- Burst animations now get swapped to using Dodge when traveling at speeds higher than 1.5k instead of being randomly played when above 500.
+- Triple Ability Wheel has been removed in favour of an ability cycle hotkey.
+- Each extra ability slot requires allocating 10 points in the stat editor using a new Speciality statistic.
+- Enraged titans no longer ignore you when you hit their weak spots, playing a much shorter stun animation instead.
+- Enraged titans attack speed multiplier has been nerfed.
+- Enraged titans have their AttackWaitTime set to 0.
+- Enraged titans roar will be cut off on death or triggering a stun animation.
+- Titans with hardened napes will react with a short hit animation when hitting their nape with the wrong damage, and will cause your blades to break.
+- Warded titans are now on their own designated regeneration timer when their weak spot has been cut off, regenerating their nape in 15 seconds.
+- Flare markers will now be visible on the compass, pointing you towards the starting position of a shot flare.
+- Flare cooldown indicators have been placed beside the chat, allowing to visualize how long your flare has before it can be fired again.
+- Flare visuals slightly overhauled to not spread as much and fade out a bit earlier.
+- Flash flare lens flare effect re-added.
+- Fog density on dynamic weather reduced.
+- Weathers renamed to: Scattered, Clear, Foggy, Rainy, Cloudy
+- Weather set list no longer has duplicated weathers.
+- Unistorm debug menu can no longer be opened by pressing Insert.
+- Using dynamic weather commands without Unistorm active now print an error instead of having a null reference error.
+- Wagons can now have a refill limit.
+- This refill limit can be set to be shared amongst players.
+- Cannons no longer require Cannoneer to mount, the role deciding whether the trajectory line is active or not instead.
+- CL Cannons also have a trajectory line now when a Cannoneer mounts them.
+- Craftsman Cannons can now have a Max ammo stat, making them unable to be fired when they're out.
+- Cannonballs hitting the titans body now lightly stun them.
+- Cannonballs hitting the titans head will take it clean off and replace it with a new head model, the titan is also stunned for 20 seconds.
+- Cannonballs when hitting the nape of a titan will do all of that titans remaining HP in one hit. Overriden if custom damage is enabled.
+- Wagon refill limit be changed using CL.
+- Wagon shared refill status can be changed using CL.
+- Craftsman cannon current ammo and max ammo can be changed with CL, setting to -1 for infinite ammo.
+- Craftsman cannon line renderer can be overriden and changed whether it is being used by a cannoneer or not.
+- Craftsman cannon can be checked for mounts.
+- Titan modifiers like Warded, Speedy, Faker, Stalker, Hardened, can now be set and changed by CL.
+- Titan regeneration percentage can now be changed by CL.
+- Titans grunt now upon death, can be disabled in sound settings.
+- 1.25x durability modifier added to your blades durability stat.
+- Sheathe blades has a reversed animation that makes it work better visually.
+- Front hook shooting has been adjusted to have a lower arm.
+- Added new profile icons like an anonymous cloaked soldier and an industrial city engineer.
+- Added new profile icons for each major military branch.
+- Meecube titan run animation has lowered arms now.
+- Dozing titan walk animation has a more raised up body.
+- Thunderspears no longer render with completely white particles.
+- Terrain on Scout Headquarters is now draw instanced, improving fps lightly.
+- Cannoneers when grabbed will now properly dismount.
+- Dancing will no longer free titans captured by the restraining device.
+- Lower the blur on UI elements.
+- Hooks now parent to moving colliders when instantiated using scene or prefab loading.
+- Make players not go to stand idle when performing actions as a horse passenger.
+
 Version 1.11.2 (09/23/2026)
 - Fix Ultra Cloud Settings breaking Dynamic Weather
 - Made it so the back part of the ODM is no longer shrunk down when a cloak is not active
