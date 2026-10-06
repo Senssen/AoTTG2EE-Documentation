@@ -1,3 +1,15 @@
+Version 1.12.1 (10/06/2026)
+- Remove duplicate flare indicators setting and bring back enable compass setting
+- Swap out the RC weather day skybox again for a new one, remove visible seams
+- Blood decals now use the same shader as the blood on the player, making it thick and glossy
+- Titans no longer completely black out in their dissolve effect
+- Blown up titan heads now use the correct material
+- Cloak blood is now using the proper UV channel, also swapping the hood carries over the blood amount properly
+- Flare indicators will now be hidden when hiding UI
+- Remove the titan fall thump that played when blood on the player started hissing as it dissolved
+- A room bool has been added to bring back titan head shot kills
+- Dance emote no longer lets you control the head's facing direction
+
 Version 1.12.0 (10/04/2026)
 - Added blood decals and a more vicious splatter effect to nape kills.
 - Added a procedural blood layer to players that increases in intensity the more titans you kill. Uses extra UV channels to prevent mirroring.
